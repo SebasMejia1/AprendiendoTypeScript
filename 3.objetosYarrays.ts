@@ -28,3 +28,4 @@ const lenguajes: (string | number)[] = [] //Manera de hacer el unionType con arr
 lenguajes.push('JavaScript')
 lenguajes.push('PHP')
 lenguajes.push(2)
+

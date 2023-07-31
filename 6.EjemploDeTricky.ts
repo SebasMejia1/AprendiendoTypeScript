@@ -3,7 +3,7 @@
 /*
 Estructura
 [
-    ['X', 'O', 'X'], //STRING[]
+    ['X', 'O', 'X'], //STRING[] 
     ['O', 'X', 'O'], //STRING[]
     ['X', 'O', 'X'], //STRING[]
 ]
